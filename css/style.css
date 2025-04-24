@@ -1,0 +1,17 @@
+body{
+    background-color:lightblue;
+    margin: 1em;
+}
+h1{
+    background-color: blue;
+    margin: 1em;
+}
+p{
+    background-color: cadetblue;
+    
+}
+ol.c {
+   
+}
+list-style-type: circle;
+   
